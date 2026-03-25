@@ -2,7 +2,7 @@
 
 An accessible, versatile audio editor and recorder that has become a mainstay for hobbyists, podcasters, musicians, educators, and professionals. This guide explores why Audacity is so widely used, how it handles everyday and advanced audio tasks, and practical tips to get great results when editing and recording sound.
 
-AUDACITY
+[***AUDACITY***](https://audacity-player.click)
 
 ***Overview and Core Philosophy***
 
